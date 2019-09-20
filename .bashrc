@@ -1,0 +1,5 @@
+alias cls='reset'
+alias st='git status'
+alias ad='git add --all'
+alias co='git commit -m'
+alias pu='git push -u origin master'
