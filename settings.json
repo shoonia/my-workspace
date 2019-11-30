@@ -1,0 +1,16 @@
+{
+    "workbench.iconTheme": "file-icons",
+    "workbench.colorTheme": "One Dark+ (Sublime)",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.renderWhitespace": "all",
+    "editor.tabSize": 2,
+    "eslint.autoFixOnSave": true,
+    "eslint.alwaysShowStatus": true,
+    "eslint.packageManager": "yarn",
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "files.insertFinalNewline": true,
+    "files.eol": "\n",
+    "javascript.updateImportsOnFileMove.enabled": "always"
+}
