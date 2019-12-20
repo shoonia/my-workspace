@@ -1,16 +1,26 @@
 {
+    "window.zoomLevel": 1,
     "workbench.iconTheme": "file-icons",
     "workbench.colorTheme": "One Dark+ (Sublime)",
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
     "editor.renderWhitespace": "all",
     "editor.tabSize": 2,
-    "eslint.autoFixOnSave": true,
+    "editor.minimap.enabled": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
     "eslint.alwaysShowStatus": true,
     "eslint.packageManager": "yarn",
     "git.confirmSync": false,
     "git.autofetch": true,
     "files.insertFinalNewline": true,
     "files.eol": "\n",
-    "javascript.updateImportsOnFileMove.enabled": "always"
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "files.associations": {
+        ".postcssrc": "json",
+        ".stylelintrc": "json",
+        ".parcelrc": "json"
+    }
 }
